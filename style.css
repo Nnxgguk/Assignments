@@ -1,0 +1,159 @@
+
+.body{
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+.center{
+    text-align: center;
+}
+.box{
+    border: 1px solid #1ee592 ;
+    width: 400px;
+    padding: 100px;
+    margin: 100px auto;
+    border-radius: 14px;
+    background-color: #1ee592;
+    text-align: left;
+    font-family: Poppins, Poppins;
+    font-weight: 400, 200;
+    
+    color: black;
+    
+}
+
+.btn{
+    background-color: white;
+    color: black;
+    border: none;
+    font-family: Poppins;
+    font-weight: bolder;
+    font-size: 15px ;
+    border-radius: 60px;
+    padding: 15px;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+
+.box2{
+
+    font-family: poppins;
+    border: 1px solid gray;
+    width: 400px;
+    height: 300x;
+    margin: 100px auto;
+    border-radius: 14px;
+    padding: 20px;
+}
+.box-img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+.inside{
+    color: gray;
+    font-family: poppins;
+    font-size: medium;
+    font-weight: 400;
+    text-align: left;
+    font: optional;
+    
+}
+.in{
+    font-family: poppins;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+    font-weight: normal;
+    padding: 10px;
+}
+.padding{
+    padding: 10px;
+}
+.footer{
+    border-top: 2px solid lightgray;
+    padding-top: 10px;
+    text-align: left;
+}
+.box3{
+    border: 1px solid lightgray;
+    width: 390px;
+    margin: 20px auto;
+    border-radius: 14px;
+    color: black;
+    font-family: poppins;
+    padding: auto;
+}
+.box3-img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.padding{
+    padding: 10px;
+}
+.sub{
+    font-family: poppins;
+    color: gray;
+}
+.para{
+    font-family: poppins;
+color: gray;
+}
+.bttn
+{
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    font-family: poppins;
+    color: rgb(32, 111, 215);
+    box-sizing: border-box;
+    padding: auto;
+}
+
+.login{
+    text-align: center;
+    width: 340px;
+    margin: 120px auto;
+    font-family: poppins;
+    color: black;
+    font-weight: normal;
+}
+.input{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 12px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: 1px solid rgb(181, 181, 181);
+    border-radius: 8px;
+}
+.logbtn{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 14px;
+    font-size: 16px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+}
+.logo{
+    height: 150px;
+    width: auto;
+    margin-bottom: 40px;}
+.lhn{
+    font-family: poppins;
+    color: gray;
+    font-weight: normal;
+    font-size: small;
+}
+.lgn{
+    font-family: poppins;
+    color: gray;
+    font-size: smaller;
+    font-weight: normal;
+    
+}
